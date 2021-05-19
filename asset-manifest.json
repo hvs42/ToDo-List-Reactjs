@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://hvs42.github.io/csb-7wu4z/static/js/main.6c3e5209.chunk.js",
+    "main.js.map": "https://hvs42.github.io/csb-7wu4z/static/js/main.6c3e5209.chunk.js.map",
+    "runtime-main.js": "https://hvs42.github.io/csb-7wu4z/static/js/runtime-main.50cae1f8.js",
+    "runtime-main.js.map": "https://hvs42.github.io/csb-7wu4z/static/js/runtime-main.50cae1f8.js.map",
+    "static/js/2.306c8396.chunk.js": "https://hvs42.github.io/csb-7wu4z/static/js/2.306c8396.chunk.js",
+    "static/js/2.306c8396.chunk.js.map": "https://hvs42.github.io/csb-7wu4z/static/js/2.306c8396.chunk.js.map",
+    "index.html": "https://hvs42.github.io/csb-7wu4z/index.html",
+    "precache-manifest.12a93f0142e5fcba1a2f062d380d7838.js": "https://hvs42.github.io/csb-7wu4z/precache-manifest.12a93f0142e5fcba1a2f062d380d7838.js",
+    "service-worker.js": "https://hvs42.github.io/csb-7wu4z/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50cae1f8.js",
+    "static/js/2.306c8396.chunk.js",
+    "static/js/main.6c3e5209.chunk.js"
+  ]
+}
